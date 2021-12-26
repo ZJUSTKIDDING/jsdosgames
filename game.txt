@@ -1,0 +1,11 @@
+Let's make a game!
+	name: OOF clicker
+Resources
+  *apple
+    name:Яблеко
+    desc:Яблеко.
+
+Upgrades
+  *applePieRecipe
+    name:Apple pie recipe
+    desc:Unlocks the ability to make яблеко pies!
