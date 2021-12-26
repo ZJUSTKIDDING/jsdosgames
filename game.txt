@@ -1,5 +1,9 @@
 Let's make a game!
 	name: OOF clicker
+	
+Settings
+	stylesheet:http://orteil.dashnet.org/cookieclicker/style.css
+
 Resources
   *apple
     name:Яблеко
